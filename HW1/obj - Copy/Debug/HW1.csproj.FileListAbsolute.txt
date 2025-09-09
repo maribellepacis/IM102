@@ -1,0 +1,6 @@
+C:\Users\Maribelle Pacis\source\repos\IM2\C_HW1\bin\Debug\C_HW1.exe.config
+C:\Users\Maribelle Pacis\source\repos\IM2\C_HW1\bin\Debug\C_HW1.exe
+C:\Users\Maribelle Pacis\source\repos\IM2\C_HW1\bin\Debug\C_HW1.pdb
+C:\Users\Maribelle Pacis\source\repos\IM2\C_HW1\obj\Debug\HW1.csproj.CoreCompileInputs.cache
+C:\Users\Maribelle Pacis\source\repos\IM2\C_HW1\obj\Debug\C_HW1.exe
+C:\Users\Maribelle Pacis\source\repos\IM2\C_HW1\obj\Debug\C_HW1.pdb
