@@ -23,17 +23,14 @@ namespace HW1
                 string original = input;
                 string lower = input.ToLower();
 
-                // Manual reverse
                 string reversed = "";
                 for (int i = lower.Length - 1; i >= 0; i--)
                 {
                     reversed += lower[i];
                 }
 
-                // Check if palindrome
                 string result = (lower == reversed) ? "Yes" : "No";
 
-                // Display result
                 Console.WriteLine("\nOriginal String         Reversed String            Palindrome?");
                 Console.WriteLine($"  {original,-20}{reversed,-25}{result}\n");
 
@@ -43,3 +40,4 @@ namespace HW1
         }
     }
 }
+
